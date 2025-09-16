@@ -3,13 +3,13 @@ def main():
     quantity = 5 
 
     # YOUR CODE FOR PART 1 GOES HERE  
-
+    
 
     # YOUR CODE FOR PART 2 GOES HERE
     print(f'cost_per_item = ${cost_per_item:0.2f}') # a sample for you to use for the other prices
 
 
-    # THIS IS THE CODE FOR PART 3
+    # THIS IS THE CODE FOR PART ABC
     # initial_investment = 1000
     # interest_rate = 0.035
     # investment = initial_investment
